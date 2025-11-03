@@ -9,9 +9,9 @@
 ```bash
 > whoami | cat - <(echo -n '🗣️🗣️🗣️') | tee >(cat >/dev/tcp/world.global/420)
 ```
-💀 Everything 💀 | ⚙️ Systems Architect | 🧬 Reverse Engineer | 🤖 Developer 🤖
-🚀 Turning caffeine into code since 1969  
-🌐 Living in `/dev/null` 
+- 💀 Everything 💀 | ⚙️ Systems Architect | 🧬 Reverse Engineer | 🤖 Developer 🤖
+- 🚀 Turning caffeine into code since 1969  
+- 🌐 Living in `/dev/null` 
 
 ---
 
@@ -20,7 +20,7 @@
 ```text
 💻 Languages: C, Rust, Python, Go, PHP, x86 assembly, TypeScript, Lua, Cobol
 🧩 Frameworks: React, Next.js, FastAPI, Django, Flask, Svelte, 
-⚡ Tools: Docker, Kubernetes, Git, Vim, ChatGipity
+⚡  Tools: Docker, Kubernetes, Git, Vim, ChatGipity
 ☁️ Cloud: AWS | GCP | Azure
 ```
 
@@ -42,7 +42,7 @@
 ### 🧬 Current Projects
 ```diff
 + 🔥 Building a quantum entanglement detector.
-! ⚙️  Refactoring the universe in Rust.
+! ⚙️ Refactoring the universe in Rust.
 - 💤 Sleeping? Never heard of it.
 ```
 
@@ -55,4 +55,3 @@
 > kubectl replace --force -f database.yaml
 > sudo rm -rf /
 ```
-
