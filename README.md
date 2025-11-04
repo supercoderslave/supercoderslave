@@ -39,15 +39,6 @@
 
 ---
 
-### 🧬 Current Projects
-```diff
-+ 🔥 Building a quantum entanglement detector.
-! ⚙️ Refactoring the universe in Rust.
-- 💤 Sleeping? Never heard of it.
-```
-
----
-
 ### 🕶️ Fun Commands
 
 ```bash
